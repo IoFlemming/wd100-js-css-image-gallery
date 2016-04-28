@@ -1,0 +1,16 @@
+.list-image img{
+  width: 100px;
+  height:100px;
+
+}
+#list-left-bottom {
+  padding-left: 500px;
+  list-style-type: none;
+}
+#list-top li{
+list-style-type: none;
+display: inline;
+}
+#list-left{
+list-style-type: none;
+}
